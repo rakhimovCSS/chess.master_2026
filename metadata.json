@@ -1,0 +1,6 @@
+{
+  "name": "ChessMaster",
+  "description": "Zamonaviy, responsiv va interaktiv shaxmat platformasi. Botga qarshi o'yin, qoidalar, strategiyalar va mashhur grossmeysterlar galereyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
